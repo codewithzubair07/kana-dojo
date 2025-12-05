@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: false, // Disable in dev for faster startup (enable in production)
 
   // Disable instrumentation in development
-  instrumentationHook: !isDev,
+  // instrumentationHook: !isDev,
 
   // Compiler optimizations
   compiler: {
