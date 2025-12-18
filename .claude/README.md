@@ -6,6 +6,8 @@ This directory contains configuration files for Claude Code AI assistant.
 
 The `settings.local.json` file configures which commands Claude Code can run automatically without asking for approval.
 
+**Default Mode:** `dontAsk` - Claude Code will automatically execute all allowed commands without prompting for confirmation.
+
 ### Allowed Commands
 
 Claude Code has automatic approval for:
