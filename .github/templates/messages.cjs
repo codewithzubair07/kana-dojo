@@ -185,11 +185,11 @@ module.exports = {
   issueCreation: {
     theme: {
       title:
-        '[Good First Issue] 🎨 Add New Color Theme: {name} (good first issue)',
+        '[Good First Issue] 🎨 Add New Color Theme: {name} (good-first-issue)',
       header: '## 🎨 Add New Color Theme: "{name}"',
       category: 'Community Contribution - Theme',
-      difficulty: 'Easy (good first issue)',
-      estimatedTime: '1 minute (good first issue)',
+      difficulty: 'Easy (good first issue!)',
+      estimatedTime: '1 minute (good-first-issue!)',
       taskDescription: 'Add this beautiful new theme to KanaDojo!',
       detailsHeader: '### Theme Details',
       vibeLabel: '💡 **Vibe:**',
@@ -205,11 +205,11 @@ module.exports = {
       footer: "**Questions?** Comment below and we'll help! 🙌"
     },
     fact: {
-      title: '[Good First Issue] 🎋 Add Japan Fact #{id} (good first issue)',
+      title: '[Good First Issue] 🎋 Add Japan Fact #{id} (good-first-issue)',
       header: '## 🎋 Add New Japan Fact',
       category: 'Community Contribution - Fun Fact',
-      difficulty: 'Easy (good first issue)',
-      estimatedTime: '1 minute (good first issue)',
+      difficulty: 'Easy (good first issue!)',
+      estimatedTime: '1 minute (good-first-issue!)',
       taskDescription:
         'Add this interesting fact about Japan to our collection!',
       factHeader: '### The Fact',
@@ -226,11 +226,11 @@ module.exports = {
     },
     proverb: {
       title:
-        '[Good First Issue] 🎌 Add Japanese Proverb #{id} (good first issue)',
+        '[Good First Issue] 🎌 Add Japanese Proverb #{id} (good-first-issue)',
       header: '## 🎌 Add Japanese Proverb (ことわざ)',
       category: 'Community Contribution - Proverb',
-      difficulty: 'Easy (good first issue)',
-      estimatedTime: '1 minute (good first issue)',
+      difficulty: 'Easy (good first issue!)',
+      estimatedTime: '1 minute (good-first-issue!)',
       taskDescription:
         'Add this traditional Japanese proverb to help learners understand Japanese wisdom!',
       proverbHeader: '### The Proverb',
