@@ -72,7 +72,7 @@ module.exports = {
       ]
     },
     footer:
-      'A maintainer will review your PR soon. In the meantime, make sure all CI checks pass!',
+      'A maintainer will review your PR shortly. In the meantime, make sure all CI checks pass!',
     thanks: 'ありがとうございます! 🙏',
     firstTimeContributor: {
       separator: '---',
